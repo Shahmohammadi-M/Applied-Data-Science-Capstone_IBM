@@ -1,1 +1,1 @@
-# Applied-Data-Science-Capstone_IBM
+# IBM Data Science Professional Certificate
